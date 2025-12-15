@@ -1,0 +1,31 @@
+[
+    {
+        "itemname": "三叶草",
+        "itemid": 0,
+        "itemspname": "Consumable/green_сlover",
+        "itemsortindex": 0,
+        "itemdesc": "这个可以给人带来幸运",
+        "itemcount": 1,
+        "hp": 50,
+        "mp": 50
+    },
+    {
+        "itemname": "鞋子",
+        "itemid": 1,
+        "itemspname": "Boots/Boots_1",
+        "itemsortindex": 4,
+        "itemdesc": "穿上以后身体变得轻盈",
+        "itemcount": 1,
+        "strength": 0,
+        "agility": 5,
+        "intelligence": 0
+    },
+    {
+        "itemname": "三叶草",
+        "itemid": 2,
+        "itemspname": "green_сlover",
+        "itemsortindex": 0,
+        "itemdesc": "这个可以给人带来幸运",
+        "itemcount": 1
+    }
+]

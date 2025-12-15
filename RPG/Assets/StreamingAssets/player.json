@@ -1,0 +1,16 @@
+{
+    "username": "Chris沈",
+    "lv": 1,
+    "strength": 1,
+    "agility": 1,
+    "intelligence": 1,
+    "originhp": 100,
+    "originmp": 100,
+    "exp": 0,
+    "point": 5,
+    "skillpoint": 1,
+    "originhprecoverspeed": 1,
+    "originmprecoverspeed": 1,
+    "originmovespeed": 1,
+    "skillids": []
+}

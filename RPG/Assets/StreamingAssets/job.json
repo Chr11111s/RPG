@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "name": "清除尖刺龟",
+        "desc": "尖刺龟太多了，经常攻击人类，你能把他们清除掉吗？",
+        "jobsortindex": 2,
+        "finish": 0,
+        "targetids": [0],
+        "targetcount": [5],
+        "finishcount": [0],
+        "exp": 100
+    },
+    {
+        "id": 1,
+        "name": "清除史莱姆",
+        "desc": "史莱姆太多了，经常攻击人类，你能把他们清除掉吗？",
+        "jobsortindex": 2,
+        "finish": 0,
+        "targetids": [1],
+        "targetcount": [10],
+        "finishcount": [0],
+        "exp": 50
+    }
+]
